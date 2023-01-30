@@ -1,0 +1,15 @@
+C:\Users\lisaj\source\repos\CodeEasyExercises\bin\Debug\net6.0\CodeEasyExercises.exe
+C:\Users\lisaj\source\repos\CodeEasyExercises\bin\Debug\net6.0\CodeEasyExercises.deps.json
+C:\Users\lisaj\source\repos\CodeEasyExercises\bin\Debug\net6.0\CodeEasyExercises.runtimeconfig.json
+C:\Users\lisaj\source\repos\CodeEasyExercises\bin\Debug\net6.0\CodeEasyExercises.dll
+C:\Users\lisaj\source\repos\CodeEasyExercises\bin\Debug\net6.0\CodeEasyExercises.pdb
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.csproj.AssemblyReference.cache
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.AssemblyInfoInputs.cache
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.AssemblyInfo.cs
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.csproj.CoreCompileInputs.cache
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.dll
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\refint\CodeEasyExercises.dll
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.pdb
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\CodeEasyExercises.genruntimeconfig.cache
+C:\Users\lisaj\source\repos\CodeEasyExercises\obj\Debug\net6.0\ref\CodeEasyExercises.dll
